@@ -18,14 +18,14 @@ Malaria is a mosquito-borne infectious disease that affects humans and other ani
 
 A batch of cell images can be seen below where each batch consists of 32 images. The images display red blood cells that are both infected and not infected.
 
-<img src="https://imgur.com/takpjDc" width="100%"/>
+<img src="https://imgur.com/takpjDc.jpg" width="100%"/>
 
 The training and validation curves of some plots are shown below.
 
-<img src="https://imgur.com/bH4dUHm" width="100%"/>
+<img src="https://imgur.com/bH4dUHm.jpg" width="100%"/>
 
 Lastly, when evaluated on the test set, our model seems to perform well.
 
-<img src="https://imgur.com/asczJHF" width="100%"/>
+<img src="https://imgur.com/asczJHF.jpg" width="100%"/>
 
 An AUC score of 1 indicates a perfect classifier while 0.5 indicates a truly random classifier, so a ROC AUC score of 98.6% is excellent. It's important to note that accuracy it not necessarily a good metric to score classifiers. We have 97.3% chance to identify all relevant instances indicated by recall and a 94.3% chance for the model to return only relevant instances indicated by precision.
