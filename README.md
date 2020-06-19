@@ -6,7 +6,7 @@
 
 ## Motivation
 
-There are a lot of images in the medical field that can benefit from image classifiers and object detection. Moreover, I wanted to learn how to perform an image classification end-to-end project using TensorFlow2.
+There are a lot of images in the medical field that can benefit from image classifiers and object detection. I would love to contribute in any way I can to the medical field because it is essential and beneficial to everyone. Moreover, I wanted to learn how to perform an image classification end-to-end project using TensorFlow2 to gain more experience in TensorFlow.
 
 ## Dataset Description
 
@@ -16,15 +16,15 @@ Malaria is a mosquito-borne infectious disease that affects humans and other ani
 
 ## Summary Results
 
-A batch of cell images can be seen below where each batch consists of 32 images. The images display red blood cells that are both infected and not infected.
+A batch of 32 cell images can be seen below. The images display red blood cells that are both infected and not infected.
 
 <img src="https://imgur.com/takpjDc.jpg" width="100%"/>
 
-The training and validation curves of some plots are shown below.
+The training and validation curves of selected plots are shown below.
 
 <img src="https://imgur.com/bH4dUHm.jpg" width="100%"/>
 
-Lastly, when evaluated on the test set, our model seems to perform well.
+When evaluated on the test set, the model seems to perform well.
 
 <p align="center">
   <img src="https://imgur.com/asczJHF.jpg" width="30%"/>
