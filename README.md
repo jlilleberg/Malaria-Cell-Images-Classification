@@ -1,6 +1,6 @@
 # Malaria Cell Image Classification
 
-### Neural network image classifer to detect malaria infected red blood cells
+### Neural network image classifier to detect malaria infected red blood cells
 
 <img src="https://www.news-medical.net/image.axd?picture=2020%2f2%2f%40shutterstock_1521138356.jpg&ts=20200219064042&ri=674" width="100%"/>
 
